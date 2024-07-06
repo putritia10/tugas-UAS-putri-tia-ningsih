@@ -1,14 +1,14 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 
-const Cari = () => {
+const Saya = () => {
   return (
     <View>
-      <Text>Cari</Text>
+      <Text></Text>
     </View>
   )
 }
 
-export default Cari
+export default Saya
 
 const styles = StyleSheet.create({})
